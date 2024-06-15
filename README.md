@@ -1,2 +1,2 @@
-# obsidian-code-blocks
-A collection of code block snippets for use in Obsidian
+# Obsidian syntax highlighting 
+A collection of syntax highlighting snippets for Obsidian
