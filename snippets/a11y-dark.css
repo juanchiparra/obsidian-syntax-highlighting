@@ -1,0 +1,31 @@
+/* 
+Syntax highlighting: a11y Dark
+https://github.com/ericwbailey/a11y-syntax-highlighting
+*/
+
+body {
+	--code-background: #2b2b2b; /* Code background color */
+	--code-white-space: pre-wrap; /* Preserve white spaces */
+	--code-size: 13px; /* Code font size */
+	--code-normal: #d4d4d4; /* Normal text color */
+	--code-comment: #d4d0ab; /* Comment color */
+	--code-function: #f5ab35; /* Function color */
+	--code-important: #ff5555; /* Important element color */
+	--code-keyword: #dcc6e0; /* Keyword color */
+	--code-operator: #d4d4d4; /* Operator color */
+	--code-property: #ffa07a; /* Property color */
+	--code-punctuation: #d4d4d4; /* Punctuation color */
+	--code-string: #abe338; /* String color */
+	--code-tag: #39BAE6; /* HTML tag color */
+	--code-value: #f5ab35; /* Value color */
+}
+
+.token.class-name,
+.token.function {
+	color: #00e0e0!important;
+}
+
+.token.console {
+	color: #ffa07a!important;
+}
+
