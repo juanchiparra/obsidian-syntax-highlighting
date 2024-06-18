@@ -1,0 +1,25 @@
+/* 
+Syntax highlighting: Dracula Theme
+https://github.com/dracula/dracula-theme
+*/
+
+body {
+	--code-background: #282A36; /* Code background color */
+	--code-white-space: pre-wrap; /* Preserve white spaces */
+	--code-size: 13px; /* Code font size */
+	--code-normal: #f8f8f2; /* Normal text color */
+	--code-comment: #6272A4; /* Comment color */
+	--code-function: #50FA7B; /* Function color */
+	--code-important: #ff79c6; /* Important element color */
+	--code-keyword: #FF79C6; /* Keyword color */
+	--code-operator: #f8f8f2; /* Operator color */
+	--code-property: #f8f8f2; /* Property color */
+	--code-punctuation: #f8f8f2; /* Punctuation color */
+	--code-string: #f1fa8c; /* String color */
+	--code-tag: #ff79c6; /* HTML tag color */
+	--code-value: #f1fa8c; /* Value color */
+}
+
+.token.class-name {
+	color: #8BE9FD!important;
+}
