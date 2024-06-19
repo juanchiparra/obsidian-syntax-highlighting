@@ -1,0 +1,30 @@
+/* 
+Syntax highlighting: Tomorrow Night Bright
+https://github.com/chriskempson/tomorrow-theme/tree/master
+*/
+
+body {
+	--code-background: #000000;
+	--code-white-space: pre;
+	--code-size: 12px;
+	--code-normal: #cccccc;
+	--code-comment: #969896;
+	--code-function: #e78c45;
+	--code-important: #ff6666;
+	--code-keyword: #cc99cc;
+	--code-operator: #cccccc;
+	--code-property: #99cccc;
+	--code-punctuation: #cccccc;
+	--code-string: #b9ca4a;
+	--code-tag: #cc99cc;
+	--code-value: #e78c45;
+}
+
+.token.class-name,
+.token.function {
+	color: #7aa6da !important;
+}
+
+.token.console {
+	color: #d54e53!important;
+}
