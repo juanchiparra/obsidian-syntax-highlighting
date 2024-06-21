@@ -1,0 +1,29 @@
+/* 
+Syntax highlighting: Atom One Light
+https://github.com/atom/atom/blob/master/packages/one-light-syntax/README.md
+*/
+
+body {
+	--code-background: #fafafa;
+	--code-white-space: pre-wrap;
+	--code-size: 13px;
+	--code-normal: #383a42;
+	--code-comment: #6a737d;
+	--code-function: #c18401;
+	--code-important: #e45649;
+	--code-keyword: #a626a4;
+	--code-operator: #383a42;
+	--code-property: #e45649;
+	--code-punctuation: #383a42;
+	--code-string: #50a14f;
+	--code-tag: #a626a4;
+	--code-value: #986801;
+}
+
+.token.function {
+	color: #4078f2!important;
+}
+
+.token.token.boolean {
+	color: #0184bb!important;
+}
