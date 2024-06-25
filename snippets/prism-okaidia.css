@@ -1,0 +1,29 @@
+/* 
+Syntax highlighting: Prism Okaidia
+https://github.com/PrismJS/prism/blob/master/
+*/
+
+body {
+	--code-background: #272822;
+	--code-white-space: pre-wrap;
+	--code-size: 13px;
+	--code-normal: #a8a19f;
+	--code-comment: #8292a2;
+	--code-function: #e6db74;
+	--code-important: #fd971f;
+	--code-keyword: #66d9ef;
+	--code-operator: #f8f8f2;
+	--code-property: #f92672;
+	--code-punctuation: #f8f8f2;
+	--code-string: #a6e22e;
+	--code-tag: #f92672;
+	--code-value: #ae81ff;
+}
+
+.token.boolean {
+	color: #ae81ff!important;
+}
+
+.token.console {
+	color: #f92672!important;
+}
