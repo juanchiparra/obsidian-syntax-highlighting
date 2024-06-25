@@ -1,0 +1,29 @@
+/* 
+Syntax highlighting: Gruvbox Dark
+https://github.com/morhetz/gruvbox
+*/
+
+body {
+	--code-background: #282828;
+	--code-white-space: pre-wrap;
+	--code-size: 13px;
+	--code-normal: #fbf1c7;
+	--code-comment: #928374;
+	--code-function: #8ec07c;
+	--code-important: #fb4934;
+	--code-keyword: #fb4934;
+	--code-operator: #fbf1c7;
+	--code-property: #fb4934;
+	--code-punctuation: #fbf1c7;
+	--code-string: #b8bb26;
+	--code-tag: #d3869b;
+	--code-value: #d3869b;
+}
+
+.token.token.boolean {
+	color: #d3869b!important;
+}
+
+.token.console {
+	color: #fb4934!important;
+}
