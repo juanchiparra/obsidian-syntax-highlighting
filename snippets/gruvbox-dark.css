@@ -20,10 +20,10 @@ body {
 	--code-value: #d3869b;
 }
 
-.token.token.boolean {
-	color: #d3869b!important;
+.markdown-preview-view .token.token.boolean {
+	color: #d3869b;
 }
 
-.token.console {
-	color: #fb4934!important;
+.markdown-preview-view .token.console {
+	color: #fb4934;
 }

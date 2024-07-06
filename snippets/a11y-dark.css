@@ -13,19 +13,19 @@ body {
 	--code-important: #ff5555; /* Important element color */
 	--code-keyword: #dcc6e0; /* Keyword color */
 	--code-operator: #d4d4d4; /* Operator color */
-	--code-property: #ffa07a; /* Property color */
+	--code-property: #dcc6e0; /* Property color */
 	--code-punctuation: #d4d4d4; /* Punctuation color */
 	--code-string: #abe338; /* String color */
 	--code-tag: #39BAE6; /* HTML tag color */
 	--code-value: #f5ab35; /* Value color */
 }
 
-.token.class-name,
-.token.function {
-	color: #00e0e0!important;
+.markdown-preview-view .token.class-name,
+.markdown-preview-view .token.function {
+	color: #00e0e0;
 }
 
-.token.console {
-	color: #ffa07a!important;
+.markdown-preview-view .token.console {
+	color: #ffa07a;
 }
 

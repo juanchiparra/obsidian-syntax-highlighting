@@ -7,7 +7,7 @@ body {
 	--code-background: #272822;
 	--code-white-space: pre-wrap;
 	--code-size: 13px;
-	--code-normal: #a8a19f;
+	--code-normal: #f1f1ee;
 	--code-comment: #8292a2;
 	--code-function: #e6db74;
 	--code-important: #fd971f;
@@ -21,9 +21,9 @@ body {
 }
 
 .token.boolean {
-	color: #ae81ff!important;
+	color: #ae81ff;
 }
 
 .token.console {
-	color: #f92672!important;
+	color: #f92672;
 }

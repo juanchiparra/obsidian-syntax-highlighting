@@ -13,13 +13,13 @@ body {
 	--code-important: #ff79c6; /* Important element color */
 	--code-keyword: #FF79C6; /* Keyword color */
 	--code-operator: #f8f8f2; /* Operator color */
-	--code-property: #f8f8f2; /* Property color */
+	--code-property: #ff79c6; /* Property color */
 	--code-punctuation: #f8f8f2; /* Punctuation color */
 	--code-string: #f1fa8c; /* String color */
 	--code-tag: #ff79c6; /* HTML tag color */
 	--code-value: #f1fa8c; /* Value color */
 }
 
-.token.class-name {
-	color: #8BE9FD!important;
+.markdown-preview-view .token.class-name {
+	color: #8BE9FD;
 }

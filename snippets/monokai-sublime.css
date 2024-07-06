@@ -13,29 +13,31 @@ body {
 	--code-important: #cb4b16;
 	--code-keyword: #f92672;
 	--code-operator: #f8f8f2;
-	--code-property: #268bd2;
+	--code-property: #a6e22e;
 	--code-punctuation: #f8f8f2;
 	--code-string: #e6db74;
 	--code-tag: #f8f8f2;
 	--code-value: #ae81ff;
 }
 
-.token.class-name {
-	color: #f8f8f2!important;
+.markdown-preview-view .token.class-name {
+	color: #f8f8f2;
 }
 
-.token.boolean {
-	color: #ae81ff!important;
+.markdown-preview-view .token.boolean {
+	color: #ae81ff;
 }
 
-.token.console {
-	color: #e6db74!important;
+.markdown-preview-view .token.console {
+	color: #e6db74;
 }
 
-.token.builtin {
-	color: #e6db74!important;
+.markdown-preview-view .token.builtin,
+.cm-s-obsidian span.cm-builtin {
+	color: #e6db74;
 }
 
-.token.variable {
-	color: #e6db74!important;
+.markdown-preview-view .token.variable,
+.cm-s-obsidian span.cm-variable {
+	color: #e6db74;
 }

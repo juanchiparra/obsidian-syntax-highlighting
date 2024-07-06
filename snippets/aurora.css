@@ -22,6 +22,6 @@ body {
 	--code-value: #e78ff9;
 }
 
-.token.console {
-	color: #dadada!important;
+.markdown-preview-view .token.console {
+	color: #dadada;
 }

@@ -22,14 +22,19 @@ body {
 	--code-value: #00FF00;
 }
 
-.token {
-	font-weight: 100!important;
+.markdown-preview-view .token {
+	font-weight: 100;
 }
 
-.token.comment {
-	font-weight: 400!important;
+.markdown-preview-view .token.comment,
+.cm-s-obsidian span.cm-comment {
+	font-weight: 400;
 }
 
-.token.function, .token.class-name, .token.selector, .token.builtin {
-	font-weight: 600!important;
+.markdown-preview-view .token.function, 
+.markdown-preview-view .token.class-name, 
+.markdown-preview-view .token.selector, 
+.markdown-preview-view .token.builtin,
+.cm-s-obsidian span.cm-builtin {
+	font-weight: 600;
 }

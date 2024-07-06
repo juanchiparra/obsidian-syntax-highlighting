@@ -20,11 +20,11 @@ body {
 	--code-value: #e78c45;
 }
 
-.token.class-name,
-.token.function {
-	color: #7aa6da !important;
+.markdown-preview-view .token.class-name,
+.markdown-preview-view .token.function {
+	color: #7aa6da;
 }
 
-.token.console {
-	color: #d54e53!important;
+.markdown-preview-view .token.console {
+	color: #d54e53;
 }
