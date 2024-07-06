@@ -2,11 +2,11 @@
 You can contribute by updating existing snippets or creating new ones.
 
 - To update: Follow the current structure of the snippet you want to update and add/modify what you consider an improvement
-- To create: Use the template available (here)[src/template.css].
+- To create: Use the template available [here](src/template.css).
 
 In both cases, send a pull request with your changes for review.
 
-Snippets use the (CSS variables)[https://docs.obsidian.md/Reference/CSS+variables/Editor/Code] defined by Obsidian.
+Snippets use the [CSS variables](https://docs.obsidian.md/Reference/CSS+variables/Editor/Code) defined by Obsidian.
 
 ```css
 body {
@@ -29,7 +29,7 @@ body {
 
 You can also configure the appearance of elements that have specific classes.
 
-Important! Obsidian uses two different libraries to modify syntax highlighting. One for the edit view and one for the read view, so there might be some inconsistency between them.
+⚠️**Important!** Obsidian uses two different libraries to modify syntax highlighting. One for the edit view and one for the read view, so there might be some inconsistency between them.
 
 For each case, you would have to use the following structure.
 
