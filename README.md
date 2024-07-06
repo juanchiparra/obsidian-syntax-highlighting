@@ -14,7 +14,7 @@ Snippets are predefined code that you can use to modify the appearance of your O
 
 ## How to install the snippets
 
-- Download: Download the snippets located in [.snippets](/snippets). You can download the whole folder or the one you want to use.
+- Download: Download the snippets located in [snippets](/snippets). You can download the whole folder or the one you want to use.
 - Place: Save the downloaded files in the vault > .obsidian > snippets folder.
 - Enable: Open Obsidian, go to "Settings", then "Appearance" and at the bottom you will find "CSS snippets", where you can enable the snippet you want to use.
 
