@@ -1,0 +1,21 @@
+/* 
+Syntax highlighting: [name]
+[source]
+*/
+
+body {
+    --code-background: color;
+	--code-white-space: pre-wrap;
+    --code-size: 13px;
+    --code-normal: color;
+    --code-comment: color;
+    --code-function: color;
+    --code-important: color;
+    --code-keyword: color;
+    --code-operator: color;
+    --code-property: color;
+    --code-punctuation: color;
+    --code-string: color;
+    --code-tag: color;
+    --code-value: color;
+}
