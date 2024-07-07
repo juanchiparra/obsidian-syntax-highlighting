@@ -20,9 +20,9 @@ Snippets are predefined code that you can use to modify the appearance of your O
 
 ![Enable the snippet](src/snippets.png)
 
-### Available snippets:
+### Available snippets
 - You can see screenshots of the available snippets [here](src/screenshots)
 
-## Contributions:
+## Contributions
 
 Your contributions are welcome! You can contribute by updating existing snippets or creating new ones. For more information, go to [CONTRIBUTING.md](CONTRIBUTING.md)
