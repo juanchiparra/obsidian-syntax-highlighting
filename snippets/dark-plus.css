@@ -1,0 +1,33 @@
+/* 
+Syntax highlighting: Dark Plus
+https://github.com/tcd/dark-plus-syntax
+*/
+
+body {
+    --code-background: #1b1b1b;
+    --code-white-space: nowrap;
+    --code-size: 13px;
+    --code-normal: #D4D4D4;
+    --code-comment: #608b4e;
+    --code-function: #dcdcaa;
+    --code-important: #569cd6;
+    --code-keyword: #c586c0;
+    --code-operator: #D4D4D4;
+    --code-property: #9CDCFE;
+    --code-punctuation: #D4D4D4;
+    --code-string: #ce9178;
+    --code-tag: #ce9178;
+    --code-value: #b5cea8;
+}
+
+.markdown-preview-view .token.console {
+    color: #9CDCFE;
+}
+
+.markdown-preview-view .token.boolean {
+    color: #569CD6;
+}
+
+.markdown-preview-view .token.unit {
+    color: #b5cea8;
+}
