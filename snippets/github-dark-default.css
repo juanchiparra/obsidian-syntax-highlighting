@@ -1,0 +1,37 @@
+/* 
+Syntax highlighting: GitHub Dark Default
+https://github.com/primer/github-vscode-theme
+*/
+
+body {
+    --code-background: #0d1117;
+    --code-white-space: nowrap;
+    --code-size: 13px;
+    --code-normal: #E6EDF3;
+    --code-comment: #8B949E;
+    --code-function: #d2a8ff;
+    --code-important: #ff7b72;
+    --code-keyword: #FF7B72;
+    --code-operator: #79C0FF;
+    --code-property: #79C0FF;
+    --code-punctuation: #E6EDF3;
+    --code-string: #a5d6ff;
+    --code-tag: #7ee787;
+    --code-value: #79C0FF;
+}
+
+.markdown-preview-view .token.hexcode.color {
+    color: #a5d6ff;
+}
+
+.markdown-preview-view .token.selector {
+    color: #7ee787;
+}
+
+.markdown-preview-view .token.class-name {
+    color: #ffa657
+}
+
+.markdown-preview-view .token.console {
+    color: #c9d1d9;
+}
