@@ -1,0 +1,45 @@
+/* 
+Syntax highlighting: Vitesse Dark
+https://github.com/antfu/vscode-theme-vitesse
+*/
+
+body {
+    --code-background: #121212;
+    --code-white-space: pre;
+    --code-size: 13px;
+    --code-normal: #dbd7caee;
+    --code-comment: #758575DD;
+    --code-function: #80A665;
+    --code-important: #4D9375;
+    --code-keyword: #4D9375;
+    --code-operator: #CB7676;
+    --code-property: #BD976A;
+    --code-punctuation: #666666;
+    --code-string: #C98A7D;
+    --code-tag: #BD976A;
+    --code-value: #4C9A91;
+}
+
+.markdown-preview-view .token.hexcode.color {
+    color: #C99076;
+}
+
+.markdown-preview-view .token.unit {
+    color: #CB7676;
+}
+
+.markdown-preview-view .token.selector {
+    color: #4D9375;
+}
+
+.markdown-preview-view .token.token.builtin {
+    color: #B8A965;
+}
+
+.markdown-preview-view .token.console {
+    color: #BD976A;
+}
+
+.language-javascript > .token.keyword { 
+    color: #CB7676;
+}
