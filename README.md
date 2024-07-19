@@ -2,7 +2,7 @@
 
 A collection of syntax highlighting snippets for Obsidian.
 
-![Syntax Highlighting screenshot](src/syntax-highlighting.png)
+![Syntax Highlighting screenshot](src/obsidian-syntax-highlighting.gif)
 
 ## What is syntax highlighting?
 
