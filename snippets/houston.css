@@ -1,0 +1,45 @@
+/* 
+Syntax highlighting: Houston
+https://github.com/withastro/houston-vscode
+*/
+
+body {
+    --code-background: #17191e;
+    --code-white-space: pre;
+    --code-size: 13px;
+    --code-normal: #EEF0F9;
+    --code-comment: #EEF0F98F;
+    --code-function: #00DAEF;
+    --code-important: #54B9FF;
+    --code-keyword: #54B9FF;
+    --code-operator: #EEF0F9;
+    --code-property: #4BF3C8;
+    --code-punctuation: #EEF0F9;
+    --code-string: #FFD493;
+    --code-tag: #54B9FF;
+    --code-value: #FFD493;
+}
+
+.markdown-preview-view .token.hexcode.color {
+    color: #FFD493;
+}
+
+.markdown-preview-view .token.class-name {
+    color: #ACAFFF;
+}
+
+.markdown-preview-view .token.unit {
+    color: #4BF3C8;
+}
+
+.markdown-preview-view .token.selector {
+    color: #54B9FF;
+}
+
+.markdown-preview-view .token.token.builtin {
+    color: #EEF0F9;
+}
+
+.markdown-preview-view .token.console {
+    color: #4BF3C8;
+}
