@@ -160,4 +160,6 @@ This is the default way Obsidian customizes syntax highlighting.
 }
 ```
 
+If you want to know more about how to configure the style in Obsidian, I recommend you read [Getting comfortable with Obsidian CSS](https://forum.obsidian.md/t/getting-comfortable-with-obsidian-css/133) and [How to style Obsidian](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/How+to+Style+Obsidian).
+
 Thank you for wanting to contribute!
