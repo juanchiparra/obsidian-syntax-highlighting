@@ -10,7 +10,7 @@ Syntax highlighting is a function that transforms code into a more intuitive vis
 
 ## What are snippets?
 
-Snippets are predefined code that you can use to modify the appearance of your Obsidian workspace.
+Snippets are predefined codes that you can use to modify the appearance of your Obsidian workspace.
 
 ## How to install the snippets
 
