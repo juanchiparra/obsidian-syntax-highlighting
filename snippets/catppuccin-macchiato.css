@@ -4,20 +4,20 @@ https://github.com/catppuccin/catppuccin
 */
 
 body {
-    --code-background: #24273a;
-    --code-white-space: pre;
-    --code-size: 13px;
-    --code-normal: #CAD3F5;
-    --code-comment: #6E738D;
-    --code-function: #8AADF4;
-    --code-important: #C6A0F6;
-    --code-keyword: #C6A0F6;
-    --code-operator: #8BD5CA;
-    --code-property: #8AADF4;
-    --code-punctuation: #939AB7;
-    --code-string: #A6DA95;
-    --code-tag: #8AADF4;
-    --code-value: #F5A97F;
+    --code-background: #24273a; /* Code background color */
+    --code-white-space: pre; /* Preserve white spaces */
+    --code-size: 13px; /* Code font size */
+    --code-normal: #CAD3F5; /* Normal text color */
+    --code-comment: #6E738D; /* Comment color */
+    --code-function: #8AADF4; /* Function color */
+    --code-important: #C6A0F6; /* Important element color */
+    --code-keyword: #C6A0F6; /* Keyword color */
+    --code-operator: #8BD5CA; /* Operator color */
+    --code-property: #8AADF4; /* Property color */
+    --code-punctuation: #939AB7; /* Punctuation color */
+    --code-string: #A6DA95; /* String color */
+    --code-tag: #8AADF4; /* HTML tag color */
+    --code-value: #F5A97F; /* Value color */
 }
 
 .markdown-preview-view .token.token.parameter {
