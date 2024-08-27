@@ -6,20 +6,20 @@ https://github.com/juanchiparra
 */
 
 body {
-	--code-background: #141414;
-	--code-white-space: pre-wrap;
-	--code-size: 13px;
-	--code-normal: #dadada;
-	--code-comment: #4a4a4a;
-	--code-function: #e78ff9;
-	--code-important: #cb4b16;
-	--code-keyword: #a1f98f;
-	--code-operator: #dadada;
-	--code-property: #a1f98f;
-	--code-punctuation: #f8f8f2;
-	--code-string: #f9e78f;
-	--code-tag: #a1f98f;
-	--code-value: #e78ff9;
+	--code-background: #141414; /* Code background color */
+	--code-white-space: pre-wrap; /* Preserve white spaces */
+	--code-size: 13px; /* Code font size */
+	--code-normal: #dadada; /* Normal text color */
+	--code-comment: #4a4a4a; /* Comment color */
+	--code-function: #e78ff9; /* Function color */
+	--code-important: #cb4b16; /* Important element color */
+	--code-keyword: #a1f98f; /* Keyword color */
+	--code-operator: #dadada; /* Operator color */
+	--code-property: #a1f98f; /* Property color */
+	--code-punctuation: #f8f8f2; /* Punctuation color */
+	--code-string: #f9e78f; /* String color */
+	--code-tag: #a1f98f; /* HTML tag color */
+	--code-value: #e78ff9; /* Value color */
 }
 
 .markdown-preview-view .token.console {
