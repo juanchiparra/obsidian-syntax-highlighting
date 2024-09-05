@@ -1,0 +1,51 @@
+/* 
+Syntax highlighting: Solarized Light
+https://ethanschoonover.com/solarized/
+*/
+
+body {
+    --code-background: #FDF6E3;
+    --code-white-space: pre;
+    --code-size: 13px;
+    --code-normal: #657B83;
+    --code-comment: #93A1A1;
+    --code-function: #859900;
+    --code-important: #859900;
+    --code-keyword: #859900;
+    --code-operator: #859900;
+    --code-property: #859900;
+    --code-punctuation: #939AB7;
+    --code-string: #2AA198;
+    --code-tag: #268BD2;
+    --code-value: #D33682;
+}
+
+.markdown-preview-view .token.class-name,
+.markdown-preview-view .token.function {
+	color: #268BD2;
+}
+
+
+.markdown-preview-view .token.class-name {
+	color: #CB4B16;
+}
+
+.markdown-preview-view .token.hexcode.color {
+    color: #CB4B16;
+}
+
+.markdown-preview-view .token.unit {
+    color: #CB4B16;
+}
+
+.markdown-preview-view .token.selector {
+    color: #268BD2;
+}
+
+.markdown-preview-view .token.builtin {
+    color: #268BD2;
+}
+
+.markdown-preview-view .token.comment {
+	font-style: italic;
+}
