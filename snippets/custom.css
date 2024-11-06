@@ -1,0 +1,115 @@
+/* @settings
+
+name: Syntax Highlighting
+id: syntax-highlighintg
+settings:
+  -
+    id: code-background
+    title: 'Code background'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#fafafa'
+    default-dark: '#242424'
+  -
+    id: code-normal
+    title: 'Code normal'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#5c5c5c'
+    default-dark: '#b3b3b3'
+  -
+    id: code-comment
+    title: 'Code comment'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#ababab'
+    default-dark: '#666666'
+  -
+    id: code-function
+    title: 'Code function'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#e0ac00'
+    default-dark: '#e0de71'
+  -
+    id: code-important
+    title: 'Code important'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#ec7500'
+    default-dark: '#e9973f'
+  -
+    id: code-keyword
+    title: 'Code keyword'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#d53984'
+    default-dark: '#fa99cd'
+  -
+    id: code-operator
+    title: 'Code operator'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#e93147'
+    default-dark: '#fb464c'
+  -
+    id: code-property
+    title: 'Code property'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#00bfbc'
+    default-dark: '#53dfdd'
+  -
+    id: code-punctuation
+    title: 'Code punctuation'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#5c5c5c'
+    default-dark: '#b3b3b3'
+  -
+    id: code-string
+    title: 'Code string'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#08b94e'
+    default-dark: '#44cf6e'
+  -
+    id: code-tag
+    title: 'Code tag'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#e93147'
+    default-dark: '#fb464c'
+  -
+    id: code-value
+    title: 'Code value'
+    description: 
+    type: variable-themed-color
+    opacity: false
+    format: hex
+    default-light: '#7852ee'
+    default-dark: '#a882ff'
+  -
+*/
